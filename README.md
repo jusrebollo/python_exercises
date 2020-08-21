@@ -1,0 +1,3 @@
+# python_exercises
+Python Exercises
+These are coding exercises for a Python Information Structures Class. You will find individual exercises and their output aside from the exercises labeled 5_...
